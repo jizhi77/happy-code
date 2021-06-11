@@ -1,0 +1,22 @@
+{
+  "name": "happy-code",
+  "version": "1.0.0",
+  "description": "happy coder, code happy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jizhi77/happy-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jizhi77/happy-code/issues"
+  },
+  "homepage": "https://github.com/jizhi77/happy-code#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
